@@ -1,0 +1,12 @@
+streamlit>=1.40
+langchain>=0.3
+langchain-core>=0.3
+langchain-text-splitters>=0.3
+langchain-google-genai>=2.0
+langchain-chroma>=0.2
+chromadb>=0.5
+pypdf>=5.0
+sympy>=1.13
+matplotlib>=3.9
+python-dotenv>=1.0
+pytest>=8.0

@@ -1,0 +1,8 @@
+.venv/
+.env
+__pycache__/
+.pytest_cache/
+data/chroma/
+data/uploads/
+data/history.db
+data/settings.json
